@@ -5,7 +5,7 @@
 >
 > Some features are still experimental and may change or be removed as development continues.
 
-# Features
+# Features V1.2 BETA
 
 * Player ESP
   * Player Radar
